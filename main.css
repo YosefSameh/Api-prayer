@@ -1,0 +1,18 @@
+
+.prayer p{
+    padding:  0 20px;
+}
+.fajr{
+    background-color: rgb(64, 47, 47);
+    color: white;
+}
+.date{
+    background-color: rgb(64, 47, 47);
+    color: white;
+}
+.alert{
+    font-size: 13px;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: red !important;
+}
